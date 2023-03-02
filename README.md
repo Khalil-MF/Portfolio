@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a553f3c-8bf9-436e-8091-90dded91ea6d/deploy-status)](https://app.netlify.com/sites/khalil-mf/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a553f3c-8bf9-436e-8091-90dded91ea6d/deploy-status)](https://khalil-mf.netlify.app/)
 ## Built With
 
 This project was built using these technologies.

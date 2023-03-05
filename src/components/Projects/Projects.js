@@ -51,7 +51,7 @@ function Projects() {
               isBlog={false}
               title="QR Code Generator"
               description="Web App built with Python and Flask. This app gives client possibility to generate a QR code from a given URL"
-              ghLink="https://github.com/Khalil-MF/QR-code-flask-py"
+              ghLink="https://github.com/Khalil-MF/QR-Generator"
               demoLink="https://khalilmoufa.pythonanywhere.com/"
             />
           </Col>

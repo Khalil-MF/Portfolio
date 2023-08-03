@@ -12,8 +12,13 @@ import {
 import {
   SiRedux,
   SiFlask,
-  SiSonarcloud
+  SiSonarcloud,
+  SiTypescript,
+  SiMongodb,
+  SiTailwindcss
 } from "react-icons/si";
+import {FaLaravel} from "react-icons/fa";
+import SiNextDotJs from "./SiNextDotJs";
 
 function Techstack() {
   return (
@@ -47,6 +52,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiRedux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaLaravel/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMongodb/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+       <SiNextDotJs/>
       </Col>
     </Row>
   );

@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Khalil Moufadil </span>
             from <span className="purple"> Mohammedia, Morocco.</span>
-            <br />I'm a junior front-end React developer and currently
-            learning new technologies such as Laravel and Express
+            <br />I'm a junior full-stack mern developer and currently
+            learning new technologies such as Laravel.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
